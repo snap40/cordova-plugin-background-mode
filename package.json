@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-background-mode",
+  "name": "@currenthealth/cordova-plugin-background-mode",
   "version": "0.7.3",
   "description": "Prevent apps from going to sleep in background.",
   "cordova": {
@@ -12,7 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/katzer/cordova-plugin-background-mode.git"
+    "url": "git+https://github.com/snap40/cordova-plugin-background-mode.git"
+  },
+  "publishConfig": {
+    "registry": "https://nexus.snap40.com/repository/npm-private/"
   },
   "keywords": [
     "appplant",
