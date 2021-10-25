@@ -12,7 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/katzer/cordova-plugin-background-mode.git"
+    "url": "git+https://github.com/snap40/cordova-plugin-background-mode.git"
+  },
+  "publishConfig": {
+    "registry": "https://nexus.snap40.com/repository/npm-private/"
   },
   "keywords": [
     "appplant",
