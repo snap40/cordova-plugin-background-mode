@@ -1,5 +1,9 @@
 ## ChangeLog
 
+#### Version 0.8.0 (09.12.2025) (CH internal)
+- [bugfix:] Add FLAG_MUTABLE to pending intents for SDK 31 support
+- [chore:] Add package-lock.json
+
 #### Version 0.7.3 (07.08.2019)
 This is more a "just publish all changes after long time" release.
 - [___change___:] Removed code for Windows 10 Mobile
